@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
-req../
+req../lib/turn.rb
 board = [" "," "," "," "," "," "," "," "," "]
+
